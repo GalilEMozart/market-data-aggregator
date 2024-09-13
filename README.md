@@ -69,8 +69,8 @@ If your found a issue or want to improve this project, feel free to submit a PR 
 
 ## ressources
 
-[back testing with clairevoyant](https://github.com/anfederico/clairvoyant)
-[A lot example of projet for market data](https://github.com/anfederico?tab=repositories)
-[Banner marker ](https://banner.godori.dev/)
-[Shield io](https://shields.io/) 
+- [back testing with clairevoyant](https://github.com/anfederico/clairvoyant)
+- [A lot example of projet for market data](https://github.com/anfederico?tab=repositories)
+- [Banner marker ](https://banner.godori.dev/)
+- [Shield io](https://shields.io/) 
 
